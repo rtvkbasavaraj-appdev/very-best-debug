@@ -32,4 +32,5 @@ class User < ApplicationRecord
 
     return unique_matching_venues
   end
+
 end
